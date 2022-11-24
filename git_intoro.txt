@@ -6,3 +6,4 @@
 ・git commit -v
 ・git status
 ・git diff
+・git commit -- amend コマンドの練習
