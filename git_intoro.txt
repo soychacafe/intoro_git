@@ -5,3 +5,4 @@
 ・git rm 
 ・git commit -v
 ・git status
+・git diff
