@@ -4,3 +4,4 @@
 ・git commit
 ・git rm 
 ・git commit -v
+・git status
