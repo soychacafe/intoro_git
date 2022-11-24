@@ -1,2 +1,4 @@
 1,gitの練習
 2,一連の管理作業の実践
+・git add
+・git commit
